@@ -5,8 +5,10 @@
 * MySQL Server	5.1.73
 * MySQL Client	5.1.73
 * Apache	Apache/2.2.15 (Red Hat)
+
 # PHP Extensions
 * Regular	apache2handler, bcmath, bz2, calendar, Core, ctype, curl, date, dom, ereg, exif, fileinfo, filter, ftp, gd, gettext, gmp, hash, iconv, json, ldap, libxml, mbstring, mysql, mysqli, openssl, pcre, PDO, pdo_mysql, pdo_sqlite, Phar, Reflection, session, shmop, SimpleXML, sockets, SPL, sqlite3, standard, tokenizer, wddx, xml, xmlreader, xmlwriter, xsl, zip, zlib
+
 # Plugins
 * AddItemLink	0.1
 * ArchiveRepertory	2.14 (inactive)
@@ -34,6 +36,7 @@
 * SimpleVocabPlus	1.1.4
 * SubjectBrowse	2.3
 * UniversalViewer	2.2.1
+
 # Themes
 * berlin	2.3.1
 * default	
