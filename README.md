@@ -8,6 +8,7 @@
 * Content Static Pages (Exhibition?)
 * Map Page(s)
 * Plugins
+
 #### Design Choices
 * final color palette
 * fonts
