@@ -40,9 +40,6 @@
 # Themes
 * berlin	2.3.1
 * default	
-* omeka-foundation	2.0
-* rhythm	2.1
-* santa-fe	2.1
 * seasons	
 * thanksroy	2.3.2
 * theme-thanksroy-NTtest	2.3.2 (current)
